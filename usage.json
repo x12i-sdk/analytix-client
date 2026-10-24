@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/analytix-client",
+  "packageVersion": "1.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/analytix-client",
+  "usageRepository": "https://github.com/x12i-sdk/analytix-client",
+  "sourceRepository": "https://github.com/x12i/analytix",
+  "sourceCommit": "cf2ed708652df6f853af877340acc385d17c76f2",
+  "sourcePackageDirectory": "packages/analytix-client",
+  "example": {
+    "title": "Run an analytic through an offline HTTP client fixture",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:10:52.977485+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "c173e6c8a6a711fad8f6b33a67e6cb2a9a622cabefb2dec89cbecedd37917968",
+    "manifestSha256": "5d371ba00f373cacf5abef821df2626814886e0c7f8a3030b0b10cd785d42c86"
+  },
+  "validationFiles": {
+    "src/index.mjs": "c173e6c8a6a711fad8f6b33a67e6cb2a9a622cabefb2dec89cbecedd37917968"
+  }
+}
